@@ -1,0 +1,26 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+#Library {
+  display: flex;
+  gap: 20px;
+}
+
+#button-div {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.book {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  padding: 20px;
+  border-radius: 10px;
+}
